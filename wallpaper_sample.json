@@ -5,7 +5,31 @@
 				"author": "Taken from github",
 				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.onyx/main/01.Wallpaper.png",
 				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.onyx/main/01.Wallpaper.png",
-				"name": "Wallpaper 1"					
+				"name": "Wallpaper 1"
+			},
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.onyx/main/02.Wallpaper.png",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.onyx/main/02.Wallpaper.png",
+				"name": "Wallpaper 2"
+			},
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.onyx/main/03.Wallpaper.JPG",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.onyx/main/03.Wallpaper.JPG",
+				"name": "Wallpaper 3"
+			},
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.onyx/main/04.Wallpaper.JPG",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.onyx/main/04.Wallpaper.JPG",
+				"name": "Wallpaper 4"
+			},
+			{
+				"author": "Taken from github",
+				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.onyx/main/05.Wallpaper.jpg",
+				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.onyx/main/05.Wallpaper.jpg",
+				"name": "Wallpaper 5"					
 			}
 		]
 }
