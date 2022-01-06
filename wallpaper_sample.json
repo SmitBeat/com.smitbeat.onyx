@@ -1,35 +1,122 @@
-{
-	"Wallpapers":
-        [
-			{
-				"author": "Taken from github",
-				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.onyx/main/01.Wallpaper.png",
-				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.onyx/main/01.Wallpaper.png",
-				"name": "Wallpaper 1"
-			},
-			{
-				"author": "Taken from github",
-				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.onyx/main/02.Wallpaper.png",
-				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.onyx/main/02.Wallpaper.png",
-				"name": "Wallpaper 2"
-			},
-			{
-				"author": "Taken from github",
-				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.onyx/main/03.Wallpaper.JPG",
-				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.onyx/main/03.Wallpaper.JPG",
-				"name": "Wallpaper 3"
-			},
-			{
-				"author": "Taken from github",
-				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.onyx/main/04.Wallpaper.JPG",
-				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.onyx/main/04.Wallpaper.JPG",
-				"name": "Wallpaper 4"
-			},
-			{
-				"author": "Taken from github",
-				"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.onyx/main/05.Wallpaper.jpg",
-				"thumbUrl": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.onyx/main/05.Wallpaper.jpg",
-				"name": "Wallpaper 5"					
-			}
-		]
-}
+[
+	{
+		"name": "My wallpaper",
+		"author": "XT",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.onyx/main/01.Wallpaper.png",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.onyx/main/01.Wallpaper.png",
+		"collections": "GRADIENT|ABSTRACT",
+		"downloadable": true,
+		"size": 345066,
+		"dimensions": "1125 x 2436 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My other wallpaper",
+		"author": "XT",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.onyx/main/01.Wallpaper.png",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.onyx/main/01.Wallpaper.png",
+		"collections": "Landscapes,Art,Material Design",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My wallpaper",
+		"author": "XT",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.onyx/main/02.Wallpaper.png",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.onyx/main/02.Wallpaper.png",
+		"collections": "GRADIENT|ABSTRACT",
+		"downloadable": true,
+		"size": 345066,
+		"dimensions": "1125 x 2436 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My other wallpaper",
+		"author": "XT",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.onyx/main/02.Wallpaper.png",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.onyx/main/02.Wallpaper.png",
+		"collections": "Landscapes,Art,Material Design",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My wallpaper",
+		"author": "XT",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.onyx/main/03.Wallpaper.JPG",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.onyx/main/03.Wallpaper.JPG",
+		"collections": "GRADIENT|ABSTRACT",
+		"downloadable": true,
+		"size": 345066,
+		"dimensions": "1125 x 2436 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My other wallpaper",
+		"author": "XT",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.onyx/main/03.Wallpaper.JPG",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.onyx/main/03.Wallpaper.JPG",
+		"collections": "Landscapes,Art,Material Design",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My wallpaper",
+		"author": "XT",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.onyx/main/04.Wallpaper.JPG",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.onyx/main/04.Wallpaper.JPG",
+		"collections": "GRADIENT|ABSTRACT",
+		"downloadable": true,
+		"size": 345066,
+		"dimensions": "1125 x 2436 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My other wallpaper",
+		"author": "XT",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.onyx/main/04.Wallpaper.JPG",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.onyx/main/04.Wallpaper.JPG",
+		"collections": "Landscapes,Art,Material Design",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My wallpaper",
+		"author": "XT",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.onyx/main/05.Wallpaper.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.onyx/main/05.Wallpaper.jpg",
+		"collections": "GRADIENT|ABSTRACT",
+		"downloadable": true,
+		"size": 345066,
+		"dimensions": "1125 x 2436 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My other wallpaper",
+		"author": "XT",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.onyx/main/05.Wallpaper.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.onyx/main/05.Wallpaper.jpg",
+		"collections": "Landscapes,Art,Material Design",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My wallpaper",
+		"author": "XT",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.onyx/main/06.Wallpaper.JPG",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.onyx/main/06.Wallpaper.JPG",
+		"collections": "GRADIENT|ABSTRACT",
+		"downloadable": true,
+		"size": 345066,
+		"dimensions": "1125 x 2436 px",
+		"copyright": "CreativeCommons Attribution-ShareALike"
+	},
+	{
+		"name": "My other wallpaper",
+		"author": "XT",
+		"url": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.onyx/main/06.Wallpaper.JPG",
+		"thumbnail": "https://raw.githubusercontent.com/SmitBeat/com.smitbeat.onyx/main/06.Wallpaper.JPG",
+		"collections": "Landscapes,Art,Material Design",
+		"downloadable": false,
+		"copyright": "CreativeCommons Attribution-ShareALike"									
+	}
+]
